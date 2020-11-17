@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+}
+.displays-1{
+    display: block;
+}
+.displays-2{
+    display: inline;
+}
+.displays-3{
+    display: inline-block;
+}
+.displays-4{
+    display: none;
+}

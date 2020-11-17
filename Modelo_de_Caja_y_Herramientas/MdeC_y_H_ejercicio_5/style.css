@@ -1,0 +1,17 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: auto;
+}
+img{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 5px solid chocolate;
+    box-sizing: border-box;
+}
+
+/*se ajusta tanto el padding como el borde*/
+
+

@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(128, 42, 109);
+    position: fixed;
+    width: 100%;
+    
+}
+main{
+    position: absolute;
+    top: 100px;
+    
+}
